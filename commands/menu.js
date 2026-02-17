@@ -41,7 +41,7 @@ const pADDUDP       = safeRequire('./addudp');
 const pTRIALUDP       = safeRequire('./trialudp');
 
 // ====== DB ======
-const DB_PATH = path.resolve(process.cwd(), 'julak', 'wallet.db');
+const DB_PATH = path.resolve(process.cwd(), 'sanz', 'wallet.db');
 function openDB() {
   try {
     fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
