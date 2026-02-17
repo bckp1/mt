@@ -1,0 +1,13 @@
+[
+  {
+    "id": "SG-DO1",
+    "host": "209.97.169.183",
+    "port": 22,
+    "username": "root",
+    "password": "123aaaBBBccc",
+    "harga_per_hari": 300,
+    "limit_add": 50,
+    "limit_quota": "10000",
+    "limit_ip": 2
+  }
+]
